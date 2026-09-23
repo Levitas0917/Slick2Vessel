@@ -1,13 +1,14 @@
 # Slick2Vessel
+author@ LELE
 
-Map oil slicks to candidate vessels.
+Segment SAR images to get candidate oil slicks , assign slicks to candidate vessels with AIS data.
 
 Work in this folder only. Jupyter Lab should be started from `F:\jupyter` (or this directory). Open notebooks under `notebooks/`.
 
 ## Layout
 
 - `notebooks/` — experiments and analysis notebooks
-- `src/` — reusable Python modules imported by notebooks
+- `src/` — reusable Python modules imported by notebooks, csv operation
 - `data/` — local data (not committed by default)
 
 ## Daily git
