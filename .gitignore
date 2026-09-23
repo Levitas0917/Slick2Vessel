@@ -1,0 +1,27 @@
+# Jupyter
+.ipynb_checkpoints/
+.virtual_documents/
+*.nbconvert.ipynb
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local / large artifacts (put small sample files elsewhere if needed)
+*.h5
+*.hdf5
+*.pkl
+*.parquet
+*.tif
+*.tiff
+*.zip
+*.7z
+lgbm_*.txt
