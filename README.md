@@ -1,5 +1,5 @@
 # Slick2Vessel
-### author@ LELE
+author@ LELE
 
 Segment SAR images to get candidate oil slicks , assign slicks to candidate vessels with AIS data.
 
